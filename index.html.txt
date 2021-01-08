@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>sup</h1>
-<p>hrng i smeell commenisme</p>
-</body>
-</html>
