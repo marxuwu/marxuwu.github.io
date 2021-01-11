@@ -5,12 +5,10 @@ html
 { margin: 0;
   padding: 0;}
   
-h1, h2, h3, h4, h5, h6 
-{ font: normal 175% 'times new roman', times new roman, serif;
-  color: #000;
-  margin: 0 0 15px 0;
-  padding: 15px 0 5px 0;}
-
+h1 {text-align: center;}
+h2 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
 .center {
   display: block;
   margin-left: auto;
